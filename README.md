@@ -1,2 +1,1 @@
-# rsschool-cv
-rs school task 'Markdown &amp; Git'
+https://VladislavSinkevich.github.io/rsschool-cv/cv
